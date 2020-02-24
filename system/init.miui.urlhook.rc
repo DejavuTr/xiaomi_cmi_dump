@@ -1,0 +1,6 @@
+# urlhook rc
+
+service urlhook /system/xbin/urlhook
+    class main
+    user root
+    group system

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+
+<library name="com.xiaomi.polaris.sdk" file="/system/framework/com.xiaomi.polaris.sdk.jar"/>
+
+</permissions>
