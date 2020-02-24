@@ -1,0 +1,3 @@
+require version-baseband=1.0.c8-00590.4-SDX55_RMTEFS_PACK-1.259039.3
+require version-trustzone=TZ.XF.5.8-252391
+require version-vendor=1582247445
